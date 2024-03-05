@@ -11,8 +11,10 @@
 > Route: /john/network/RETFound/data/
 > 
 > Raw data(Zip from Keelung) :/john/network/RETFound/data/Zip
+>
+>  Raw data(unzip)_images : /john/network/RETFound/data/Images_Files
 > 
-> Raw data(unzip)_images : /john/network/RETFound/data/dataset
+> Raw data unzip_images together : /john/network/RETFound/data/dataset
 > 
 * code: RETFound_data_preprocessing.ipynb (Move file together)
 
