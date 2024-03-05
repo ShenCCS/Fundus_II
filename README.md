@@ -38,6 +38,5 @@
 * code : Age(2521).ipynb、BMI(2521).ipynb....
 * Note : GPU -> A5000
 
-# Captum
-> File Route : /john/network/RETFound/RETFound_MAE-main/captum/codes
-* code : captumImage.ipynb
+# Note:
+* code Route:當時是使用周博的電腦執行的，如果要使用我們的Ubuntu執行，Input data 需做替換
