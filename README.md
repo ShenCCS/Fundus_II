@@ -39,4 +39,4 @@
 * Note : GPU -> A5000
 
 # Note:
-* code Route:當時是使用周博的電腦執行的，如果要使用我們的Ubuntu執行，Input data 需做替換
+* code Route:當時是使用周博的電腦執行的，如果要使用我們的Ubuntu執行，Input data 需做替換(或是從周博的電腦中把資料帶回來)
