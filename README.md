@@ -34,7 +34,7 @@
 * code: dataSplitByYears.ipynb
 
 # model(RETFound)
-> code File : /john/network/RETFound_MAE-main/Newdata/RETFound
+> code File : /john/network/RETFound_MAE-main/Fundus_II/model
 * code : Age_V2.ipynb、Gender_V2.ipynb、Year_V2.ipynb
 * Note : GPU -> A5000
 
